@@ -1,3 +1,4 @@
-
-
-https://www.office.com/launch/onenote
+{
+  "name": "Microsoft OneNote 365",
+  "main": "https://www.office.com/launch/onenote"
+}
